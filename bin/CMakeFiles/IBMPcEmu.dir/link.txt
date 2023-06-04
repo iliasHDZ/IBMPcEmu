@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/IBMPcEmu.dir/src/cpu8086.cpp.o CMakeFiles/IBMPcEmu.dir/src/main.cpp.o CMakeFiles/IBMPcEmu.dir/src/monochromeDisplay.cpp.o -o IBMPcEmu  -L/usr/lib/x86_64-linux-gnu  -lSDL2 
